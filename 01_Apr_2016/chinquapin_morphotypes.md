@@ -22,3 +22,7 @@ _Methods_
 _Results_
 
 - no results yet...
+
+_Questions_
+
+- b/c hybridization is there anything to take away for blight resistance?
